@@ -8,7 +8,7 @@
   Welcome to our page!
   <br>
   We are the <b>Digitalization Committee</b> at  
-  &nbsp; <img src="https://moodle.astanait.edu.kz/pluginfile.php/1/core_admin/logocompact/300x300/1677736259/logo%20AITU%28imageonly%29.png" height="20px" width="auto"/> &nbsp; <!-- icon --> 
+  &nbsp; <img src="https://moodle.astanait.edu.kz/pluginfile.php/1/core_admin/logocompact/300x300/1677736259/logo%20AITU%28imageonly%29.png" height="20px" width="auto" style="height: 20px; width: auto;"/> &nbsp; <!-- icon --> 
   <b>Astana IT University</b>.
 </p>
 
